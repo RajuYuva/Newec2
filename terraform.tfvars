@@ -1,0 +1,5 @@
+region        = "your-aws-region"
+ami_id        = "your-ami-id"
+instance_type = "t2.micro"
+key_name      = "your-key-pair-name"
+instance_name = "your-instance-name"
